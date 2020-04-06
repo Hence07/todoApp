@@ -1,5 +1,8 @@
 body {
- background-color: white;
+ background-color: whitesmoke;
+}
+.todo-list{
+  background-color: white;
  margin: auto;
  width: 50%;
  display: flex;
